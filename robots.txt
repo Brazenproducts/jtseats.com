@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jtseats.com/sitemap.xml
